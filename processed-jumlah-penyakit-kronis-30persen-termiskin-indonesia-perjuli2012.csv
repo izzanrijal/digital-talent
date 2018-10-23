@@ -1,0 +1,265 @@
+kode_provinsi,nama_provinsi,kelompok_usia,jenis_kelamin,jumlah_individu
+11,"Prov. Nanggroe Aceh Darussalam","Usia 15 - di bawah 45 tahun","Laki-Laki",7294
+11,"Prov. Nanggroe Aceh Darussalam","Usia 15 - di bawah 45 tahun","Perempuan",11103
+11,"Prov. Nanggroe Aceh Darussalam","Usia 45 - di bawah 60 tahun","Laki-Laki",10212
+11,"Prov. Nanggroe Aceh Darussalam","Usia 45 - di bawah 60 tahun","Perempuan",12586
+11,"Prov. Nanggroe Aceh Darussalam","Usia di atas 60 tahun","Laki-Laki",10330
+11,"Prov. Nanggroe Aceh Darussalam","Usia di atas 60 tahun","Perempuan",15444
+11,"Prov. Nanggroe Aceh Darussalam","Usia di bawah 15 tahun","Laki-Laki",970
+11,"Prov. Nanggroe Aceh Darussalam","Usia di bawah 15 tahun","Perempuan",898
+12,"Prov. Sumatera Utara","Usia 15 - di bawah 45 tahun","Laki-Laki",15410
+12,"Prov. Sumatera Utara","Usia 15 - di bawah 45 tahun","Perempuan",15438
+12,"Prov. Sumatera Utara","Usia 45 - di bawah 60 tahun","Laki-Laki",17009
+12,"Prov. Sumatera Utara","Usia 45 - di bawah 60 tahun","Perempuan",20080
+12,"Prov. Sumatera Utara","Usia di atas 60 tahun","Laki-Laki",19517
+12,"Prov. Sumatera Utara","Usia di atas 60 tahun","Perempuan",28865
+12,"Prov. Sumatera Utara","Usia di bawah 15 tahun","Laki-Laki",1564
+12,"Prov. Sumatera Utara","Usia di bawah 15 tahun","Perempuan",1358
+13,"Prov. Sumatera Barat","Usia 15 - di bawah 45 tahun","Laki-Laki",4349
+13,"Prov. Sumatera Barat","Usia 15 - di bawah 45 tahun","Perempuan",6348
+13,"Prov. Sumatera Barat","Usia 45 - di bawah 60 tahun","Laki-Laki",6141
+13,"Prov. Sumatera Barat","Usia 45 - di bawah 60 tahun","Perempuan",7749
+13,"Prov. Sumatera Barat","Usia di atas 60 tahun","Laki-Laki",7711
+13,"Prov. Sumatera Barat","Usia di atas 60 tahun","Perempuan",11208
+13,"Prov. Sumatera Barat","Usia di bawah 15 tahun","Laki-Laki",994
+13,"Prov. Sumatera Barat","Usia di bawah 15 tahun","Perempuan",892
+14,"Prov. Riau","Usia 15 - di bawah 45 tahun","Laki-Laki",3033
+14,"Prov. Riau","Usia 15 - di bawah 45 tahun","Perempuan",4317
+14,"Prov. Riau","Usia 45 - di bawah 60 tahun","Laki-Laki",4079
+14,"Prov. Riau","Usia 45 - di bawah 60 tahun","Perempuan",5210
+14,"Prov. Riau","Usia di atas 60 tahun","Laki-Laki",4871
+14,"Prov. Riau","Usia di atas 60 tahun","Perempuan",6145
+14,"Prov. Riau","Usia di bawah 15 tahun","Laki-Laki",505
+14,"Prov. Riau","Usia di bawah 15 tahun","Perempuan",445
+15,"Prov. Jambi","Usia 15 - di bawah 45 tahun","Laki-Laki",2807
+15,"Prov. Jambi","Usia 15 - di bawah 45 tahun","Perempuan",3984
+15,"Prov. Jambi","Usia 45 - di bawah 60 tahun","Laki-Laki",3780
+15,"Prov. Jambi","Usia 45 - di bawah 60 tahun","Perempuan",4869
+15,"Prov. Jambi","Usia di atas 60 tahun","Laki-Laki",5200
+15,"Prov. Jambi","Usia di atas 60 tahun","Perempuan",6512
+15,"Prov. Jambi","Usia di bawah 15 tahun","Laki-Laki",416
+15,"Prov. Jambi","Usia di bawah 15 tahun","Perempuan",373
+16,"Prov. Sumatera Selatan","Usia 15 - di bawah 45 tahun","Laki-Laki",4368
+16,"Prov. Sumatera Selatan","Usia 15 - di bawah 45 tahun","Perempuan",5936
+16,"Prov. Sumatera Selatan","Usia 45 - di bawah 60 tahun","Laki-Laki",5726
+16,"Prov. Sumatera Selatan","Usia 45 - di bawah 60 tahun","Perempuan",6744
+16,"Prov. Sumatera Selatan","Usia di atas 60 tahun","Laki-Laki",8462
+16,"Prov. Sumatera Selatan","Usia di atas 60 tahun","Perempuan",10339
+16,"Prov. Sumatera Selatan","Usia di bawah 15 tahun","Laki-Laki",694
+16,"Prov. Sumatera Selatan","Usia di bawah 15 tahun","Perempuan",659
+17,"Prov. Bengkulu","Usia 15 - di bawah 45 tahun","Laki-Laki",2436
+17,"Prov. Bengkulu","Usia 15 - di bawah 45 tahun","Perempuan",3310
+17,"Prov. Bengkulu","Usia 45 - di bawah 60 tahun","Laki-Laki",2801
+17,"Prov. Bengkulu","Usia 45 - di bawah 60 tahun","Perempuan",3441
+17,"Prov. Bengkulu","Usia di atas 60 tahun","Laki-Laki",4153
+17,"Prov. Bengkulu","Usia di atas 60 tahun","Perempuan",4901
+17,"Prov. Bengkulu","Usia di bawah 15 tahun","Laki-Laki",400
+17,"Prov. Bengkulu","Usia di bawah 15 tahun","Perempuan",338
+18,"Prov. Lampung","Usia 15 - di bawah 45 tahun","Laki-Laki",5829
+18,"Prov. Lampung","Usia 15 - di bawah 45 tahun","Perempuan",7877
+18,"Prov. Lampung","Usia 45 - di bawah 60 tahun","Laki-Laki",7960
+18,"Prov. Lampung","Usia 45 - di bawah 60 tahun","Perempuan",9124
+18,"Prov. Lampung","Usia di atas 60 tahun","Laki-Laki",14877
+18,"Prov. Lampung","Usia di atas 60 tahun","Perempuan",15723
+18,"Prov. Lampung","Usia di bawah 15 tahun","Laki-Laki",1018
+18,"Prov. Lampung","Usia di bawah 15 tahun","Perempuan",876
+19,"Prov. Kepulauan Bangka Belitung","Usia 15 - di bawah 45 tahun","Laki-Laki",729
+19,"Prov. Kepulauan Bangka Belitung","Usia 15 - di bawah 45 tahun","Perempuan",896
+19,"Prov. Kepulauan Bangka Belitung","Usia 45 - di bawah 60 tahun","Laki-Laki",986
+19,"Prov. Kepulauan Bangka Belitung","Usia 45 - di bawah 60 tahun","Perempuan",1472
+19,"Prov. Kepulauan Bangka Belitung","Usia di atas 60 tahun","Laki-Laki",2036
+19,"Prov. Kepulauan Bangka Belitung","Usia di atas 60 tahun","Perempuan",3238
+19,"Prov. Kepulauan Bangka Belitung","Usia di bawah 15 tahun","Laki-Laki",116
+19,"Prov. Kepulauan Bangka Belitung","Usia di bawah 15 tahun","Perempuan",95
+21,"Prov. Kepulauan Riau","Usia 15 - di bawah 45 tahun","Laki-Laki",1308
+21,"Prov. Kepulauan Riau","Usia 15 - di bawah 45 tahun","Perempuan",1854
+21,"Prov. Kepulauan Riau","Usia 45 - di bawah 60 tahun","Laki-Laki",1520
+21,"Prov. Kepulauan Riau","Usia 45 - di bawah 60 tahun","Perempuan",1806
+21,"Prov. Kepulauan Riau","Usia di atas 60 tahun","Laki-Laki",1649
+21,"Prov. Kepulauan Riau","Usia di atas 60 tahun","Perempuan",1851
+21,"Prov. Kepulauan Riau","Usia di bawah 15 tahun","Laki-Laki",266
+21,"Prov. Kepulauan Riau","Usia di bawah 15 tahun","Perempuan",223
+31,"Prov. DKI Jakarta","Usia 15 - di bawah 45 tahun","Laki-Laki",5906
+31,"Prov. DKI Jakarta","Usia 15 - di bawah 45 tahun","Perempuan",8268
+31,"Prov. DKI Jakarta","Usia 45 - di bawah 60 tahun","Laki-Laki",9151
+31,"Prov. DKI Jakarta","Usia 45 - di bawah 60 tahun","Perempuan",12420
+31,"Prov. DKI Jakarta","Usia di atas 60 tahun","Laki-Laki",7367
+31,"Prov. DKI Jakarta","Usia di atas 60 tahun","Perempuan",10048
+31,"Prov. DKI Jakarta","Usia di bawah 15 tahun","Laki-Laki",1193
+31,"Prov. DKI Jakarta","Usia di bawah 15 tahun","Perempuan",1024
+32,"Prov. Jawa Barat","Usia 15 - di bawah 45 tahun","Laki-Laki",36080
+32,"Prov. Jawa Barat","Usia 15 - di bawah 45 tahun","Perempuan",49028
+32,"Prov. Jawa Barat","Usia 45 - di bawah 60 tahun","Laki-Laki",53482
+32,"Prov. Jawa Barat","Usia 45 - di bawah 60 tahun","Perempuan",62306
+32,"Prov. Jawa Barat","Usia di atas 60 tahun","Laki-Laki",83893
+32,"Prov. Jawa Barat","Usia di atas 60 tahun","Perempuan",97188
+32,"Prov. Jawa Barat","Usia di bawah 15 tahun","Laki-Laki",7685
+32,"Prov. Jawa Barat","Usia di bawah 15 tahun","Perempuan",6746
+33,"Prov. Jawa Tengah","Usia 15 - di bawah 45 tahun","Laki-Laki",25694
+33,"Prov. Jawa Tengah","Usia 15 - di bawah 45 tahun","Perempuan",33015
+33,"Prov. Jawa Tengah","Usia 45 - di bawah 60 tahun","Laki-Laki",41022
+33,"Prov. Jawa Tengah","Usia 45 - di bawah 60 tahun","Perempuan",47458
+33,"Prov. Jawa Tengah","Usia di atas 60 tahun","Laki-Laki",85571
+33,"Prov. Jawa Tengah","Usia di atas 60 tahun","Perempuan",93053
+33,"Prov. Jawa Tengah","Usia di bawah 15 tahun","Laki-Laki",6328
+33,"Prov. Jawa Tengah","Usia di bawah 15 tahun","Perempuan",5427
+34,"Prov. D I Yogyakarta","Usia 15 - di bawah 45 tahun","Laki-Laki",3286
+34,"Prov. D I Yogyakarta","Usia 15 - di bawah 45 tahun","Perempuan",4451
+34,"Prov. D I Yogyakarta","Usia 45 - di bawah 60 tahun","Laki-Laki",4927
+34,"Prov. D I Yogyakarta","Usia 45 - di bawah 60 tahun","Perempuan",6632
+34,"Prov. D I Yogyakarta","Usia di atas 60 tahun","Laki-Laki",11277
+34,"Prov. D I Yogyakarta","Usia di atas 60 tahun","Perempuan",13817
+34,"Prov. D I Yogyakarta","Usia di bawah 15 tahun","Laki-Laki",1411
+34,"Prov. D I Yogyakarta","Usia di bawah 15 tahun","Perempuan",1121
+35,"Prov. Jawa Timur","Usia 15 - di bawah 45 tahun","Laki-Laki",23062
+35,"Prov. Jawa Timur","Usia 15 - di bawah 45 tahun","Perempuan",30153
+35,"Prov. Jawa Timur","Usia 45 - di bawah 60 tahun","Laki-Laki",43071
+35,"Prov. Jawa Timur","Usia 45 - di bawah 60 tahun","Perempuan",53562
+35,"Prov. Jawa Timur","Usia di atas 60 tahun","Laki-Laki",82964
+35,"Prov. Jawa Timur","Usia di atas 60 tahun","Perempuan",107861
+35,"Prov. Jawa Timur","Usia di bawah 15 tahun","Laki-Laki",3793
+35,"Prov. Jawa Timur","Usia di bawah 15 tahun","Perempuan",3533
+36,"Prov. Banten","Usia 15 - di bawah 45 tahun","Laki-Laki",6355
+36,"Prov. Banten","Usia 15 - di bawah 45 tahun","Perempuan",8416
+36,"Prov. Banten","Usia 45 - di bawah 60 tahun","Laki-Laki",8969
+36,"Prov. Banten","Usia 45 - di bawah 60 tahun","Perempuan",9033
+36,"Prov. Banten","Usia di atas 60 tahun","Laki-Laki",9524
+36,"Prov. Banten","Usia di atas 60 tahun","Perempuan",10390
+36,"Prov. Banten","Usia di bawah 15 tahun","Laki-Laki",976
+36,"Prov. Banten","Usia di bawah 15 tahun","Perempuan",932
+51,"Prov. Bali","Usia 15 - di bawah 45 tahun","Laki-Laki",2883
+51,"Prov. Bali","Usia 15 - di bawah 45 tahun","Perempuan",3226
+51,"Prov. Bali","Usia 45 - di bawah 60 tahun","Laki-Laki",3693
+51,"Prov. Bali","Usia 45 - di bawah 60 tahun","Perempuan",3993
+51,"Prov. Bali","Usia di atas 60 tahun","Laki-Laki",7534
+51,"Prov. Bali","Usia di atas 60 tahun","Perempuan",7389
+51,"Prov. Bali","Usia di bawah 15 tahun","Laki-Laki",550
+51,"Prov. Bali","Usia di bawah 15 tahun","Perempuan",495
+52,"Prov. Nusa Tenggara Barat","Usia 15 - di bawah 45 tahun","Laki-Laki",5982
+52,"Prov. Nusa Tenggara Barat","Usia 15 - di bawah 45 tahun","Perempuan",7907
+52,"Prov. Nusa Tenggara Barat","Usia 45 - di bawah 60 tahun","Laki-Laki",7916
+52,"Prov. Nusa Tenggara Barat","Usia 45 - di bawah 60 tahun","Perempuan",9309
+52,"Prov. Nusa Tenggara Barat","Usia di atas 60 tahun","Laki-Laki",11403
+52,"Prov. Nusa Tenggara Barat","Usia di atas 60 tahun","Perempuan",13068
+52,"Prov. Nusa Tenggara Barat","Usia di bawah 15 tahun","Laki-Laki",953
+52,"Prov. Nusa Tenggara Barat","Usia di bawah 15 tahun","Perempuan",939
+53,"Prov. Nusa Tenggara Timur","Usia 15 - di bawah 45 tahun","Laki-Laki",7994
+53,"Prov. Nusa Tenggara Timur","Usia 15 - di bawah 45 tahun","Perempuan",9773
+53,"Prov. Nusa Tenggara Timur","Usia 45 - di bawah 60 tahun","Laki-Laki",7134
+53,"Prov. Nusa Tenggara Timur","Usia 45 - di bawah 60 tahun","Perempuan",7552
+53,"Prov. Nusa Tenggara Timur","Usia di atas 60 tahun","Laki-Laki",9109
+53,"Prov. Nusa Tenggara Timur","Usia di atas 60 tahun","Perempuan",9259
+53,"Prov. Nusa Tenggara Timur","Usia di bawah 15 tahun","Laki-Laki",1827
+53,"Prov. Nusa Tenggara Timur","Usia di bawah 15 tahun","Perempuan",1592
+61,"Prov. Kalimantan Barat","Usia 15 - di bawah 45 tahun","Laki-Laki",4263
+61,"Prov. Kalimantan Barat","Usia 15 - di bawah 45 tahun","Perempuan",5417
+61,"Prov. Kalimantan Barat","Usia 45 - di bawah 60 tahun","Laki-Laki",5771
+61,"Prov. Kalimantan Barat","Usia 45 - di bawah 60 tahun","Perempuan",6716
+61,"Prov. Kalimantan Barat","Usia di atas 60 tahun","Laki-Laki",7050
+61,"Prov. Kalimantan Barat","Usia di atas 60 tahun","Perempuan",7887
+61,"Prov. Kalimantan Barat","Usia di bawah 15 tahun","Laki-Laki",684
+61,"Prov. Kalimantan Barat","Usia di bawah 15 tahun","Perempuan",644
+62,"Prov. Kalimantan Tengah","Usia 15 - di bawah 45 tahun","Laki-Laki",1921
+62,"Prov. Kalimantan Tengah","Usia 15 - di bawah 45 tahun","Perempuan",2542
+62,"Prov. Kalimantan Tengah","Usia 45 - di bawah 60 tahun","Laki-Laki",2505
+62,"Prov. Kalimantan Tengah","Usia 45 - di bawah 60 tahun","Perempuan",2822
+62,"Prov. Kalimantan Tengah","Usia di atas 60 tahun","Laki-Laki",3255
+62,"Prov. Kalimantan Tengah","Usia di atas 60 tahun","Perempuan",3364
+62,"Prov. Kalimantan Tengah","Usia di bawah 15 tahun","Laki-Laki",338
+62,"Prov. Kalimantan Tengah","Usia di bawah 15 tahun","Perempuan",315
+63,"Prov. Kalimantan Selatan","Usia 15 - di bawah 45 tahun","Laki-Laki",3326
+63,"Prov. Kalimantan Selatan","Usia 15 - di bawah 45 tahun","Perempuan",4630
+63,"Prov. Kalimantan Selatan","Usia 45 - di bawah 60 tahun","Laki-Laki",4599
+63,"Prov. Kalimantan Selatan","Usia 45 - di bawah 60 tahun","Perempuan",6100
+63,"Prov. Kalimantan Selatan","Usia di atas 60 tahun","Laki-Laki",6228
+63,"Prov. Kalimantan Selatan","Usia di atas 60 tahun","Perempuan",9408
+63,"Prov. Kalimantan Selatan","Usia di bawah 15 tahun","Laki-Laki",535
+63,"Prov. Kalimantan Selatan","Usia di bawah 15 tahun","Perempuan",418
+64,"Prov. Kalimantan Timur","Usia 15 - di bawah 45 tahun","Laki-Laki",3588
+64,"Prov. Kalimantan Timur","Usia 15 - di bawah 45 tahun","Perempuan",5015
+64,"Prov. Kalimantan Timur","Usia 45 - di bawah 60 tahun","Laki-Laki",5646
+64,"Prov. Kalimantan Timur","Usia 45 - di bawah 60 tahun","Perempuan",6753
+64,"Prov. Kalimantan Timur","Usia di atas 60 tahun","Laki-Laki",6289
+64,"Prov. Kalimantan Timur","Usia di atas 60 tahun","Perempuan",6366
+64,"Prov. Kalimantan Timur","Usia di bawah 15 tahun","Laki-Laki",583
+64,"Prov. Kalimantan Timur","Usia di bawah 15 tahun","Perempuan",527
+71,"Prov. Sulawesi Utara","Usia 15 - di bawah 45 tahun","Laki-Laki",5312
+71,"Prov. Sulawesi Utara","Usia 15 - di bawah 45 tahun","Perempuan",5558
+71,"Prov. Sulawesi Utara","Usia 45 - di bawah 60 tahun","Laki-Laki",6300
+71,"Prov. Sulawesi Utara","Usia 45 - di bawah 60 tahun","Perempuan",5942
+71,"Prov. Sulawesi Utara","Usia di atas 60 tahun","Laki-Laki",6264
+71,"Prov. Sulawesi Utara","Usia di atas 60 tahun","Perempuan",6688
+71,"Prov. Sulawesi Utara","Usia di bawah 15 tahun","Laki-Laki",753
+71,"Prov. Sulawesi Utara","Usia di bawah 15 tahun","Perempuan",690
+72,"Prov. Sulawesi Tengah","Usia 15 - di bawah 45 tahun","Laki-Laki",7566
+72,"Prov. Sulawesi Tengah","Usia 15 - di bawah 45 tahun","Perempuan",9127
+72,"Prov. Sulawesi Tengah","Usia 45 - di bawah 60 tahun","Laki-Laki",7151
+72,"Prov. Sulawesi Tengah","Usia 45 - di bawah 60 tahun","Perempuan",7528
+72,"Prov. Sulawesi Tengah","Usia di atas 60 tahun","Laki-Laki",7465
+72,"Prov. Sulawesi Tengah","Usia di atas 60 tahun","Perempuan",7519
+72,"Prov. Sulawesi Tengah","Usia di bawah 15 tahun","Laki-Laki",1359
+72,"Prov. Sulawesi Tengah","Usia di bawah 15 tahun","Perempuan",1206
+73,"Prov. Sulawesi Selatan","Usia 15 - di bawah 45 tahun","Laki-Laki",6836
+73,"Prov. Sulawesi Selatan","Usia 15 - di bawah 45 tahun","Perempuan",8451
+73,"Prov. Sulawesi Selatan","Usia 45 - di bawah 60 tahun","Laki-Laki",8860
+73,"Prov. Sulawesi Selatan","Usia 45 - di bawah 60 tahun","Perempuan",11683
+73,"Prov. Sulawesi Selatan","Usia di atas 60 tahun","Laki-Laki",15205
+73,"Prov. Sulawesi Selatan","Usia di atas 60 tahun","Perempuan",21281
+73,"Prov. Sulawesi Selatan","Usia di bawah 15 tahun","Laki-Laki",1029
+73,"Prov. Sulawesi Selatan","Usia di bawah 15 tahun","Perempuan",892
+74,"Prov. Sulawesi Tenggara","Usia 15 - di bawah 45 tahun","Laki-Laki",3219
+74,"Prov. Sulawesi Tenggara","Usia 15 - di bawah 45 tahun","Perempuan",4328
+74,"Prov. Sulawesi Tenggara","Usia 45 - di bawah 60 tahun","Laki-Laki",3732
+74,"Prov. Sulawesi Tenggara","Usia 45 - di bawah 60 tahun","Perempuan",4345
+74,"Prov. Sulawesi Tenggara","Usia di atas 60 tahun","Laki-Laki",5145
+74,"Prov. Sulawesi Tenggara","Usia di atas 60 tahun","Perempuan",5766
+74,"Prov. Sulawesi Tenggara","Usia di bawah 15 tahun","Laki-Laki",516
+74,"Prov. Sulawesi Tenggara","Usia di bawah 15 tahun","Perempuan",411
+75,"Prov. Gorontalo","Usia 15 - di bawah 45 tahun","Laki-Laki",1902
+75,"Prov. Gorontalo","Usia 15 - di bawah 45 tahun","Perempuan",2480
+75,"Prov. Gorontalo","Usia 45 - di bawah 60 tahun","Laki-Laki",2207
+75,"Prov. Gorontalo","Usia 45 - di bawah 60 tahun","Perempuan",2547
+75,"Prov. Gorontalo","Usia di atas 60 tahun","Laki-Laki",2292
+75,"Prov. Gorontalo","Usia di atas 60 tahun","Perempuan",2618
+75,"Prov. Gorontalo","Usia di bawah 15 tahun","Laki-Laki",219
+75,"Prov. Gorontalo","Usia di bawah 15 tahun","Perempuan",236
+76,"Prov. Sulawesi Barat","Usia 15 - di bawah 45 tahun","Laki-Laki",1951
+76,"Prov. Sulawesi Barat","Usia 15 - di bawah 45 tahun","Perempuan",2359
+76,"Prov. Sulawesi Barat","Usia 45 - di bawah 60 tahun","Laki-Laki",1526
+76,"Prov. Sulawesi Barat","Usia 45 - di bawah 60 tahun","Perempuan",1664
+76,"Prov. Sulawesi Barat","Usia di atas 60 tahun","Laki-Laki",2114
+76,"Prov. Sulawesi Barat","Usia di atas 60 tahun","Perempuan",2238
+76,"Prov. Sulawesi Barat","Usia di bawah 15 tahun","Laki-Laki",287
+76,"Prov. Sulawesi Barat","Usia di bawah 15 tahun","Perempuan",254
+81,"Prov. Maluku","Usia 15 - di bawah 45 tahun","Laki-Laki",1736
+81,"Prov. Maluku","Usia 15 - di bawah 45 tahun","Perempuan",2188
+81,"Prov. Maluku","Usia 45 - di bawah 60 tahun","Laki-Laki",2394
+81,"Prov. Maluku","Usia 45 - di bawah 60 tahun","Perempuan",2527
+81,"Prov. Maluku","Usia di atas 60 tahun","Laki-Laki",2907
+81,"Prov. Maluku","Usia di atas 60 tahun","Perempuan",2754
+81,"Prov. Maluku","Usia di bawah 15 tahun","Laki-Laki",360
+81,"Prov. Maluku","Usia di bawah 15 tahun","Perempuan",252
+82,"Prov. Maluku Utara","Usia 15 - di bawah 45 tahun","Laki-Laki",1797
+82,"Prov. Maluku Utara","Usia 15 - di bawah 45 tahun","Perempuan",2157
+82,"Prov. Maluku Utara","Usia 45 - di bawah 60 tahun","Laki-Laki",1948
+82,"Prov. Maluku Utara","Usia 45 - di bawah 60 tahun","Perempuan",2110
+82,"Prov. Maluku Utara","Usia di atas 60 tahun","Laki-Laki",1873
+82,"Prov. Maluku Utara","Usia di atas 60 tahun","Perempuan",1805
+82,"Prov. Maluku Utara","Usia di bawah 15 tahun","Laki-Laki",325
+82,"Prov. Maluku Utara","Usia di bawah 15 tahun","Perempuan",292
+91,"Prov. Papua Barat","Usia 15 - di bawah 45 tahun","Laki-Laki",1149
+91,"Prov. Papua Barat","Usia 15 - di bawah 45 tahun","Perempuan",1300
+91,"Prov. Papua Barat","Usia 45 - di bawah 60 tahun","Laki-Laki",1027
+91,"Prov. Papua Barat","Usia 45 - di bawah 60 tahun","Perempuan",1153
+91,"Prov. Papua Barat","Usia di atas 60 tahun","Laki-Laki",964
+91,"Prov. Papua Barat","Usia di atas 60 tahun","Perempuan",745
+91,"Prov. Papua Barat","Usia di bawah 15 tahun","Laki-Laki",250
+91,"Prov. Papua Barat","Usia di bawah 15 tahun","Perempuan",232
+94,"Prov. Papua","Usia 15 - di bawah 45 tahun","Laki-Laki",982
+94,"Prov. Papua","Usia 15 - di bawah 45 tahun","Perempuan",1195
+94,"Prov. Papua","Usia 45 - di bawah 60 tahun","Laki-Laki",1184
+94,"Prov. Papua","Usia 45 - di bawah 60 tahun","Perempuan",1321
+94,"Prov. Papua","Usia di atas 60 tahun","Laki-Laki",1141
+94,"Prov. Papua","Usia di atas 60 tahun","Perempuan",897
+94,"Prov. Papua","Usia di bawah 15 tahun","Laki-Laki",121
+94,"Prov. Papua","Usia di bawah 15 tahun","Perempuan",111
